@@ -1,3 +1,6 @@
+#Programa hecho por Francisco Marquez Maya
+#Estructura de Datos    Grupo 1310
+
 from csv import reader
 import os
 
