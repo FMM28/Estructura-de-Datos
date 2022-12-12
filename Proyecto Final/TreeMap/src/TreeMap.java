@@ -16,7 +16,7 @@ public class TreeMap {
         TreeMap arbol2 = new TreeMap();     //Genere un segundo arbol con numeros aleatorios
         for(int i=0;i<6;i++){
             Random aleat = new Random();
-            int n = aleat.nextInt(100)
+            int n = aleat.nextInt(100);
             arbol2.put(n,("N"+n));
         }
         System.out.println(arbol2.values());
